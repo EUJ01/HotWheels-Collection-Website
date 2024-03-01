@@ -45,17 +45,6 @@ h1 {
     text-align: center;
 }
 
-a,
-h4 {
-    color: grey;
-    text-decoration: none;
-    font-weight: lighter;
-}
-
-#signupLink {
-    color: #2980b9;
-}
-
 #bigtext {
     color: #B5C0D0;
     font-size: 5rem;
