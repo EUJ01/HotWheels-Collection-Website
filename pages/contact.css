@@ -1,3 +1,7 @@
+body, input, textarea, .navitem{
+    font-family: Permanent Marker;
+}
+
 body {
     background-color: #F5E8DD;
 }
